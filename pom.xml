@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Java Course API</name>
   
-<parent>
+<parent> 
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.5.9.RELEASE</version>
@@ -20,3 +20,5 @@
 	<java.version>1.8</java.version>
 </properties>
 </project>
+
+<!--There will be an error when settings.xml specific to user be used (for example this will be resolved when I update my settings.xml to use generic maven settings . Not the work one*/ -->
