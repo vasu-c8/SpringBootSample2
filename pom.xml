@@ -21,4 +21,4 @@
 </properties>
 </project>
 
-<!--There will be an error when settings.xml specific to user be used (for example this will be resolved when I update my settings.xml to use generic maven settings . Not the work one*/ -->
+<!--There will be an error when settings.xml specific to user be used (for example this will be resolved when I update my settings.xml to use generic maven settings . Not the workgit  one*/ -->
